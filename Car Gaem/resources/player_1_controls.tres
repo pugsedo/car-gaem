@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://scripts/player_controls.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+player_index = 0
+move_forward = "move_forward_p1"
+steer_left = "steer_left_p1"
+steer_right = "steer_right_p1"
+brake = "brake_p1"
